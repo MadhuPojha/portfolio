@@ -11,30 +11,34 @@ export default function Experience(){
           <div className={styles.aboutItemText}>
     
             <li className={styles.aboutItem}>
-              <p><strong>Fullstack Developer Intern | Flexera | Stockholm | 2025 March – Present : </strong><br />
-                Developed a web app using Go (backend) and React (frontend) to provide customers a consolidated view of SaaS resource utilization costs.
-                Implemented CI/CD pipelines, conducted code reviews, and enforced best practices for high-quality, secure, and efficient delivery.
+              <p><strong>Fullstack Developer Intern Strictly Post Production AB - Stockholm (September 2025 – Present) : </strong><br />
+                Developed a full-stack video management platform using Python, React, Typescript, and Supabase with secure file uploads, duplicate detection, and metadata tracking.
+				Migration from Supabase to Google Cloud Storage (GCS) for scalable media handling.
+				Implementing custom Edge Functions for signed uploads and integrated real-time progress tracking and automated video processing workflows.
               </p>
             </li>
 
             <li className={styles.aboutItem}>
-              <p><strong>Fullstack Developer Intern | Linespotting | Stockholm | 2024 December– 2025 Feb : </strong><br />
-                Developed a smart energy monitoring dashboard with features like consumption tracking, cost analysis, alerts, and real-time updates using Python, Flask, React, SCSS, and Firebase.
-                Contributed to full-stack development, including CRUD operations for houses, devices, and sources, while collaborating via Git.
+              <p><strong>Fullstack Developer Intern
+				Flexera AB & Historical Parts AB - Stockholm (March 2025 – July 2025) : </strong><br />
+                Developed a web application providing customers a consolidated view of resource utilization costs across various SaaS applications.
+				Utilized Go for back-end development and React/NextJS for front-end development to create dynamic and responsive web applications for this use case.
+				Set up and maintained CI/CD pipelines to automate testing, building, and deployment processes, ensuring rapid and reliable software delivery
+				Worked on scalable e-commerce platforms and AI modules—built with Python and integrated with RESTful APIs for image recognition, authentication, and data management.
+				Involved in full project lifecycle planning, agile development, code reviews, performance tuning, and delivery while keeping tech and business teams in sync.
+				Developed and customized e-commerce solutions using Shopify.
               </p>
             </li>
 
             <li className={styles.aboutItem}>
-              <p><strong>Python Developer Intern|Infinity IT Consulting|Stockholm|2024 Sept–2024 Nov : </strong><br />
-                Built an Employee Workplace Portal using Python and Django with role-based authentication, secure password reset, and RESTful APIs for enhanced functionality.
-                Collaborated with React frontend developers for seamless integration, contributed to code reviews, and ensured efficient delivery through CI/CD pipelines. Managed version control and resolved merge conflicts using Git.
-              </p>
-            </li>
-
-            <li className={styles.aboutItem}>
-              <p><strong>System Developer Intern | Lexicon Interactive | Stockholm | 2024 June : </strong><br />
-                Developed a responsive, interactive chatbot application using Python and Django, with real-time communication and thread management for seamless user experience.
-                Implemented secure cross-domain embedding and optimized the design for multiple devices, deploying the application for reliable hosting.
+              <p><strong>Fullstack Developer Intern
+				Lexicon Interactive, Infinity IT Consulting AB, Linespottin AB - Stockholm (September 2024 – February 2025)	 : </strong><br />
+                Built a responsive and interactive chatbot application using Python and Django.
+				Implemented real-time communication and thread management for smooth user interaction.
+				Built an Employee Workplace Portal using Python and Django with role-based authentication.
+				Implemented password reset workflows, email notifications, and optimized RESTful APIs.
+				Developed smart energy monitoring dashboards with features like consumption tracking, cost analysis, and energy usage alerts/notifications.
+				Contributed to the development of a web application to manage and monitor energy usage, devices, and sources using Python, Flask API, React, NextJS, SCSS, and Firebase
               </p>
             </li>
 
