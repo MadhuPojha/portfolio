@@ -17,6 +17,11 @@
   /*box-shadow: -2px 0 4px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow */
 }
 
+.navScrolled {
+  background-color: rgba(0, 0, 0, 0.9); /* change to any color you like */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
 .mainContent {
   padding-top: 60px; /* Adjust this to match your navbar height */
 }
