@@ -13,39 +13,25 @@ export default function Skills() {
           <li className={styles.aboutItem}>
             
             <div className={styles.aboutItemText}>
-            
-                <p><strong>Programming Languages : </strong>
-                  Python, JavaScript, Go, Java, HTML, CSS
-                </p>
 
-                <p><strong>Frameworks & Libraries : </strong>
-                  Django, React, Bootstrap, Flask, Node.js
-                </p>
-                <p><strong>Artificial Intelligence & Machine Learning : </strong>
-                  TensorFlow, PyTorch, scikit-learn, OpenCV, Keras, Pandas, NumPy, Jupyter
-                </p>
+              <p><strong>Programming & Scripting:</strong> Python, JavaScript (JS), HTML, CSS, SCSS</p>
+          
+              <p><strong>Frameworks & Libraries:</strong> Django, ReactJS, TypeScript, NextJS</p>
+          
+              <p><strong>APIs & Development Tools:</strong> RESTful APIs, GitHub Actions, CI/CD, Docker, Kubernetes</p>
+          
+              <p><strong>Project Management & Methodologies:</strong> Jira, Confluence, Agile, Scrum</p>
+          
+              <p><strong>UI/UX & Design:</strong> Figma, Shopify</p>
+          
+              <p><strong>Databases & Cloud Platforms:</strong> Firebase, Supabase, AWS</p>
+          
+              <p><strong>Soft Skills:</strong> Problem-solving, Time Management, Communication, Teamwork, Adaptability</p>
+          
+              <p><strong>Languages:</strong> English, Hindi, Swedish</p>
+          
+          </div>
 
-                <p><strong>Databases : </strong>
-                  MySQL, SQLite, MongoDB, PostgreSQL, Firebase
-                </p>
-
-                <p><strong>Tools & Technologies : </strong>
-                  Git, Docker, Kubernetes, APIs, CI/CD, Jira, Agile, Scrum, Kanban, Confluence
-                </p>
-                
-                <p><strong>Cloud Platforms : </strong>
-                  Azure, Heroku
-                </p>
-                
-                <p><strong>Soft Skills : </strong>
-                  Problem-solving, Time Management, Communication, Teamwork, Adaptability
-                </p>
-                
-                <p><strong>Languages : </strong>
-                  English, Hindi, Swedish
-                </p>
-
-            </div>
           </li>
         </ul>
       </div>
