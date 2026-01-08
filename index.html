@@ -2,14 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <!-- favicon in public/ with base path -->
-    <link rel="icon" type="image/svg+xml" href="/portfolio/vite.svg" />
+    <!-- favicon in public/ with relative path (avoids root 404s) -->
+    <link rel="icon" type="image/svg+xml" href="vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Madhu Portfolio</title>
   </head>
   <body>
     <div id="root"></div>
-    <!-- main.jsx in src/, Vite will handle bundling -->
-    <script type="module" src="/src/main.jsx"></script>
+    <!-- main.jsx in src/, use relative path to avoid absolute-root 404s on GH Pages -->
+    <script type="module" src="src/main.jsx"></script>
   </body>
 </html>
