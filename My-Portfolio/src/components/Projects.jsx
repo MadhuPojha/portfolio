@@ -6,9 +6,22 @@ import ProjectCard from "./ProjectCard";
 import ProjShoppingImage from "../assets/Proj_Shopping.jpg";
 import ProjWeatherImage from "../assets/Proj_Weather.jpg";
 import ProjPhDirImage from "../assets/Proj_PhDir.jpg";
+import BooksQuotesApp from "../assets/BooksQuotesApp.png";
 
 export default function Projects() {
   const projects = [
+    {
+      
+      title: "Books & Quotes App",
+      imageSrc: BooksQuotesApp,
+      description:
+        "CRUD app for books & quotes with JWT auth, dark/light theme, FastAPI + Bootstrap.",
+      skills: [
+        "HTML5", "CSS", "JS", "Bootstrap ", "Python","FastAPI", "SQLite", "JWT Authentication",
+      ],
+      link: "https://github.com/MadhuPojha/book-quote-app",
+        
+    },
     {
       title: "Online Clothing Store",
       imageSrc: ProjShoppingImage,

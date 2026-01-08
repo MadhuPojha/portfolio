@@ -24,7 +24,7 @@ export default function Skills() {
           
               <p><strong>UI/UX & Design:</strong> Figma, Shopify</p>
           
-              <p><strong>Databases & Cloud Platforms:</strong> Firebase, Supabase, AWS</p>
+              <p><strong>Databases & Cloud Platforms:</strong> Firebase, Supabase, AWS, Google Cloud Storage</p>
           
               <p><strong>Soft Skills:</strong> Problem-solving, Time Management, Communication, Teamwork, Adaptability</p>
           

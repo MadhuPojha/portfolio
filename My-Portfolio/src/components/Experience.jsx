@@ -12,9 +12,10 @@ export default function Experience(){
     
             <li className={styles.aboutItem}>
               <p><strong>Fullstack Developer Intern Strictly Post Production AB - Stockholm (September 2025 – Present) : </strong><br />
-                Developed a full-stack video management platform using Python, React, Typescript, and Supabase with secure file uploads, duplicate detection, and metadata tracking.
-				Migration from Supabase to Google Cloud Storage (GCS) for scalable media handling.
-				Implementing custom Edge Functions for signed uploads and integrated real-time progress tracking and automated video processing workflows.
+                Developed a full-stack video management platform using Python, React, TypeScript, and Supabase with secure file uploads, duplicate detection, and metadata tracking.<br />
+                Migrated media storage from Supabase to Google Cloud Storage (GCS) for scalable handling of video assets.<br />
+                Implemented custom Edge Functions for signed uploads, enabling secure and real-time progress tracking.<br />
+                Automated video processing workflows, including metadata extraction, format conversion, and notifications for completed uploads.
               </p>
             </li>
 
