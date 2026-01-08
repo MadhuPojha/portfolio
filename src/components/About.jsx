@@ -19,7 +19,7 @@ export default function About() {
             <div className={styles.aboutItemText}>
               
               <p>
-                am a Certified Associate Python Programmer (PCAP) and Software Engineer with over 5 years of experience in full-stack development, specializing in Python and Django. I have a strong foundation in modern web technologies, including JavaScript, React, HTML, CSS, and expertise in CI/CD pipelines, GitHub Actions, Docker, and Kubernetes.
+                I am a Certified Associate Python Programmer (PCAP) and Software Engineer with over 5 years of experience in full-stack development, specializing in Python and Django. I have a strong foundation in modern web technologies, including JavaScript, React, HTML, CSS, and expertise in CI/CD pipelines, GitHub Actions, Docker, and Kubernetes.
                 I am well-versed in project management and collaborative tools such as Jira, Confluence, and agile methodologies including Scrum. Additionally, I have hands-on experience with Figma, Firebase, Supabase, and databases like SQLite, MongoDB, MySQL, and MS SQL.
                 I am passionate about building scalable, efficient, and user-centric applications that deliver real value to users.
                 Languages: English (Fluent), Swedish (Conversational)
