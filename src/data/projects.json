@@ -15,7 +15,7 @@
   },
   {
     "title": "Weather-App",
-    "imageSrc": "/portfolio/My-Portfolio/src/assets/Proj_Weather.jpg",
+    "imageSrc": "/portfolio/src/assets/Proj_Weather.jpg",
     "description": "A Django-based Weather App that fetches real-time weather data using external APIs.",
     "skills": ["Python", "Django", "HTML", "SQLite"],
     "link": "https://github.com/MadhuPojha/django-weather-app"
