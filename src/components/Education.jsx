@@ -9,7 +9,8 @@ export default function Education() {
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
-              <h3>Certifications: </h3>
+              <h3>Certifications: </h3>              
+              <p>AWS Cloud Practitioner – AWS Skill Build (Jan 2026)</p>
               <p>Certified Associate Python Programmer (PCAP) – Python Institute (Feb 2025)</p>
               <p>Artificial Intelligence Fundamentals – IBM Skills Build (Dec 2024)</p>
               <p>Python for Data Science – IBM Skills Build (Dec 2024)</p>

@@ -66,6 +66,59 @@
   font-size: 25px;
 }
 
+/* Skill group container */
+.skillGroup {
+  margin-bottom: 2rem;
+}
+
+/* Skill group title */
+.skillTitle {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #555;
+}
+
+/* Grid layout for skill badges */
+.skillGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+/* Individual skill badge */
+.skillBadge {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border-radius: 25px;
+  background-color: #e0e0e0; /* light gray */
+  color: #333;
+  font-size: 0.95rem;
+  font-weight: 500;
+  transition: transform 0.2s, background-color 0.2s;
+  cursor: default;
+}
+
+/* Hover effect for badges */
+.skillBadge:hover {
+  transform: scale(1.1);
+  background-color: #d0d0ff; /* subtle hover color */
+}
+
+/* Icon inside badge */
+.icon {
+  font-size: 1.3rem;
+  display: flex;
+  align-items: center;
+}
+
+/* Skill name text */
+.skillName {
+  font-size: 0.95rem;
+}
+
 @media screen and (max-width: 830px) {
   .container {
     background-color: transparent;
@@ -88,5 +141,13 @@
   .aboutItem {
     padding-left: 0;
     padding-right: 0;
+  }
+  .skillGrid {
+    justify-content: center;
+  }
+
+  .skillBadge {
+    font-size: 0.85rem;
+    padding: 6px 12px;
   }
 }
