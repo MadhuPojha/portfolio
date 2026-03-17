@@ -36,7 +36,7 @@ export default function Projects() {
       description:
         "React-based weather app that fetches real-time weather data using OpenWeatherMap API.",
       skills: ["React", "JavaScript", "CSS", "API"],
-      link: "https://github.com/MadhuPojha/Weather-App",
+      link: "https://github.com/MadhuPojha/django-weather-app",
     },
     {
       title: "PhD Directory System",
@@ -44,7 +44,7 @@ export default function Projects() {
       description:
         "Platform for managing PhD student records with advanced filtering and profile features.",
       skills: ["HTML", "CSS", "JavaScript", "Firebase"],
-      link: "https://github.com/MadhuPojha/PhD-Directory",
+      link: "https://github.com/MadhuPojha/phone-directory-ReactJS-",
     },
   ];
 
