@@ -67,3 +67,6 @@ A modern, responsive portfolio website built with React and Vite, showcasing pro
 - **Icons**: React Icons
 - **Build Tool**: Vite
 - **Deployment**: GitHub Pages
+
+# 📸 Preview
+<img width="1895" height="848" alt="image" src="https://github.com/user-attachments/assets/e3639f78-c02c-40a4-ae4e-e1e2c14fe285" />
